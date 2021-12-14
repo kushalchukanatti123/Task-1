@@ -12,3 +12,5 @@ b) Add the exclusion list by extending the above UI, so that users aren't able t
     
 ## Screenshots of the app built
 
+![s111](https://user-images.githubusercontent.com/56756612/145996143-a624f4bf-5b1b-49e9-9a00-244ac249398b.jpg)
+![s222](https://user-images.githubusercontent.com/56756612/145996149-254b3e28-8c6a-40f8-b53f-403fc0fe95aa.jpg)
